@@ -1,0 +1,7 @@
+E:\Project\FileSorter\FileSorter\bin\Debug\FileSorter.exe.config
+E:\Project\FileSorter\FileSorter\bin\Debug\FileSorter.exe
+E:\Project\FileSorter\FileSorter\bin\Debug\FileSorter.pdb
+E:\Project\FileSorter\FileSorter\obj\Debug\FileSorter.csprojResolveAssemblyReference.cache
+E:\Project\FileSorter\FileSorter\obj\Debug\FileSorter.csproj.CoreCompileInputs.cache
+E:\Project\FileSorter\FileSorter\obj\Debug\FileSorter.exe
+E:\Project\FileSorter\FileSorter\obj\Debug\FileSorter.pdb
